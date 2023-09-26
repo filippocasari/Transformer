@@ -1,2 +1,4 @@
-# Tranformer
-DeepLearningLab
+# Transformers
+@ DeepLearningLab
+
+My implementation of Transformer. 
